@@ -1,0 +1,23 @@
+{
+  "name": "genshin-automation",
+  "version": "1.0.0",
+  "description": "Genshin Automation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyakresna/genshin-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyakresna/genshin-automation/issues"
+  },
+  "homepage": "https://github.com/satyakresna/genshin-automation#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
