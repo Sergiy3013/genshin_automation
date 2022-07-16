@@ -94,7 +94,7 @@ In this case, you need to open square brackets `[` list received in the section 
   3. Press START on your keyboard, then search for Powershell
   4. Click Windows Powershell, then copy & paste the script below to the Powershell
   ```
-    iex ((New-Object System.Net.WebClient).DownloadString('file/getlink_global.ps1')
+    iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Sergiy3013/genshin_automation/master/getlink_global.ps1'))
   ```
   5. Press ENTER, and a link will copied to your clipboard.
 </details>
