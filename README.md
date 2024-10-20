@@ -5,8 +5,8 @@
 # Genshin Automation
 ## This tool will automatically collect Hoyolab daily login rewards.
 
-Unfortunately, due to a violation of GitHub's terms, this automation tool cannot be published here. Due to many forks and activity it was removed twice, but I still support it and it still works, I also did a similar project for Honkai. If you need the project code, you can contact me in [Telegram](https://t.me/call_me_noname) or [Discord](https://discordapp.com/users/237628352914128897/) :)
-
+Unfortunately, due to a violation of GitHub's terms, this automation tool cannot be published here. Due to many forks and activity it was removed twice, but I still support it and it still works. 
+If you want to use it, you can join our [Discord](https://discordapp.com/users/237628352914128897/) where there is a bot with an automation script. Ping me if you have any questions (@call_me_noname)
 ---
 
 ![Genshin Impact daily login rewards](/images/hoyolab/hoyolab-reward-list.png)
